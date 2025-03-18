@@ -1,8 +1,6 @@
 
 
-# PROYECTO CSS 2
-
-[PROYECTO CSS 2 LINK A WEB (NETLIFY)](https://proyecto2-css-sergiecode.netlify.app/)
+# PROYECTO CSS
 
 Podés ver el curso completo en el siguiente video: [CSS desde cero | Curso tutorial completo gratis por Sergie Code](https://youtu.be/rTtC6Q-71qg)
 
